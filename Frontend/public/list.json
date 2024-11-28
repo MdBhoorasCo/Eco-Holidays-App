@@ -1,0 +1,101 @@
+[
+    {
+        "Id":1,
+        "Country":"Pakistan",
+        "City":"Karachi",
+        "Details":"Karachi PC hotel Food Transport Air tickets included",
+        "Price":65000,
+        "Pic":"./Karachi.jpeg"
+    },
+
+    {
+        "Id":2,
+        "Country":"Pakistan",
+        "City":"Lahore",
+        "Details":"Lahore PPC hotel Food Transport Air tickets included",
+        "Price":85000,
+        "Pic":"./Lahre.jpeg"
+    },
+
+    {
+        "Id":3,
+        "Country":"Pakistan",
+        "City":"Islamabad",
+        "Details":"Islamabad PC hotel Food Transport Air tickets included",
+        "Price":120000,
+        "Pic":"./Islamabad.jpeg"
+    },
+
+    {
+        "Id":4,
+        "Country":"Pakistan",
+        "City":"Faisalabad",
+        "Details":"Faisalabad PC hotel Food Transport Air tickets included",
+        "Price":62000,
+        "Pic":"./Faisalabad.jpeg"
+    },
+
+    {
+        "Id":5,
+        "Country":"Pakistan",
+        "City":"Abbotabad",
+        "Details":"Abbotabad PC hotel Food Transport Air tickets included",
+        "Price":105000,
+        "Pic":"./Abbotabad.jpeg"
+    },
+
+    {
+        "Id":6,
+        "Country":"Pakistan",
+        "City":"Gilgit",
+        "Details":"Gilgit PC hotel Food Transport Air tickets included",
+        "Price":65000,
+        "Pic":"./Gilgit.jpeg"
+    },
+
+    {
+        "Id":7,
+        "Country":"Pakistan",
+        "City":"Queeta",
+        "Details":"Queeta PC hotel Food Transport Air tickets included",
+        "Price":65000,
+        "Pic":"./Queeta.jpeg"
+    },
+
+    {
+        "Id":8,
+        "Country":"Pakistan",
+        "City":"Peshawar",
+        "Details":"Peshawar PC hotel Food Transport Air tickets included",
+        "Price":135000,
+        "Pic":"./Peshawar.jpeg"
+    },
+
+    {
+        "Id":9,
+        "Country":"Pakistan",
+        "City":"Naran",
+        "Details":"Naran PC hotel Food Transport Air tickets included",
+        "Price":150000,
+        "Pic":"./Naran.jpeg"
+    },
+
+    {
+        "Id":10,
+        "Country":"Pakistan",
+        "City":"Multan",
+        "Details":"Multan Sarena hotel Food Transport Air tickets included",
+        "Price":90000,
+        "Pic":"./Naran.jpeg"
+    },
+
+    {
+        "Id":11,
+        "Country":"Pakistan",
+        "City":"Tharparkar",
+        "Details":"umerkot Karonjhar hotel Food Transport Air tickets included",
+        "Price":25000,
+        "Pic":"./Naran.jpeg"
+    }
+
+]
